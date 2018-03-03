@@ -3,7 +3,7 @@
 This code uses xlabs chrome extension in developer mode to track and record 
 the results of eyegaze tracking into a file using chrome browser
 
-##Steps
+## Steps
 
 1. Install xLabs chrome Extension.
 2. Run TryNew/new.html(actual file) and xlabs-demo-master/ants/index.html(for calibration).
